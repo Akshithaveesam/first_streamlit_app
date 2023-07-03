@@ -27,3 +27,4 @@ def get_fruityvice_data(this_fruit_choice):
     return fruityvice_normalized
 
 streamlit.header("Fruityvice Fruit Advice!")
+streamlit.header('The fruit load list contains:')
